@@ -1,4 +1,4 @@
-# GuardAI — Mentor de Cibersegurança (Especialização DIO Agent)
+# GuardAI: Mentor de Cibersegurança (Especialização DIO Agent)
 
 Especialização do **DIO Agent** voltada para **AppSec (Segurança de Aplicações)** e **Defesa Cibernética**, capacitando o agente a conduzir auditorias investigativas sem entregar respostas prontas logo de início.
 
@@ -16,7 +16,7 @@ Especialização do **DIO Agent** voltada para **AppSec (Segurança de Aplicaç�
 ### 1. Inicialização do Agente
 ![Inicialização Hermes](assets/00-inicio-hermes.png)
 
-### 2. Auditoria de SQL Injection (`app.py` — Método S.A.F.E.)
+### 2. Auditoria de SQL Injection (`app.py`- Método S.A.F.E.)
 ![Auditoria Parte 1](assets/01-auditoria-sql-injection-parte1.png)
 ![Auditoria Parte 2](assets/01-auditoria-sql-injection-parte2.png)
 
